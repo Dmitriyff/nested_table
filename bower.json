@@ -16,6 +16,6 @@
     "tests"
   ],
   "dependencies": {
-
+    "less": "1.6.1"
   }
 }
