@@ -1,0 +1,21 @@
+{
+  "name": "Nested Table",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Dmitriyff/nested_table",
+  "authors": [
+    "Dmitriyff Smile <dmitriyff@gmail.com>"
+  ],
+  "description": "Nested Table, design by Mike Finch",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/js/vendors",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  }
+}
