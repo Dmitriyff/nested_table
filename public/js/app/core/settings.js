@@ -2,7 +2,14 @@
 
 	var App = ng.module('App', ['ui.router']);
 
-	App.config(function() { });
+	App.config(function($stateProvider) { 
+
+		$stateProvider
+		.state('base', {
+			'url': '',
+			'templateUrl': ''
+		})
+	});
 
 	window.App = App;
 
